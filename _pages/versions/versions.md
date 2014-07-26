@@ -11,7 +11,7 @@ Backdrop aims to deliver features to end-users more quickly with more frequent (
 
 ## Version Numbers
 
-Backdrop uses semantic versioning (which is also under consideration for Drupal itself). Take a closer look at version 1.2.4, for example: 
+Backdrop uses semantic versioning (which has also been adopted by Drupal itself). Take a closer look at version 1.2.4, for example: 
 
 <div class="version-number">
   <span class="major">1</span>.<span class="minor">2</span>.<span class="patch">4</span>
